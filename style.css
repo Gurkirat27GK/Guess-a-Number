@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(12, 12, 12);
+}
+
+#wrapper{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 2.5rem;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 1rem;
+}
+
+#para{
+    margin-top: 2rem;
+    font-size: 1.2rem;
+}
+
+.form{
+    margin-bottom: 2;
+    justify-content: center;
+}
+
+.form #guessField{
+    width: 50rem;
+    height: 1.6rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.form #guessField::placeholder{
+    text-align: center;
+    font-size: 1rem;
+}
+
+.form #sub{
+    margin-top: 1.5rem;
+    width: 72px;
+    height: 32px;
+    background-color: rgb(249, 35, 35);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.form #sub:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.resultParas .lowOrHi{
+    color: orange;
+}
+
+.resultParas .res{
+    margin-top: 1rem;
+}
+
+#newGame{
+    margin-top: 1.5rem;
+    width: 80px;
+    height: 32px;
+    background-color: rgb(3, 158, 3);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+#newGame:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
