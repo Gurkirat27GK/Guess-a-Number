@@ -7,7 +7,7 @@
 **Frontend**
 
 ## Deployed App
-- **Frontend**: [https://gurkirat27gk.github.io/Guess-a-Number/](https://gurkirat27gk.github.io/Guess-a-Number/)
+- **Frontend**: https://gurkirat27gk.github.io/Guess-a-Number/
 - **Backend**: _Not applicable_
 - **Database**: _Not applicable_
 
@@ -20,12 +20,6 @@ guess-the-number/
 ├── script.js
 ├── README.md
 </pre>
-
-## Video Walkthrough of the Project
-📽️ [Attach a short 1–3 minute video demo showing how the game works]
-
-## Video Walkthrough of the Codebase
-📽️ [Attach a 1–5 minute video explanation of your HTML, CSS, and JS logic]
 
 ## Features
 
